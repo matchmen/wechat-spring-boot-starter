@@ -1,0 +1,4 @@
+wechat:
+  auth:
+    appId: '1111'
+    appsecret: '123123'
